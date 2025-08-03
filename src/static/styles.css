@@ -74,6 +74,34 @@ section h3 {
   margin-bottom: 8px;
 }
 
+/* Participants section inside activity card */
+.activity-participants {
+  margin-top: 15px;
+  padding-top: 10px;
+  border-top: 1px solid #e3e3e3;
+}
+
+.activity-participants h5 {
+  margin-bottom: 8px;
+  color: #3949ab;
+  font-size: 1.05em;
+  font-weight: bold;
+  letter-spacing: 0.5px;
+}
+
+.activity-participants ul {
+  list-style-type: disc;
+  margin-left: 20px;
+  color: #333;
+  padding-left: 0;
+}
+
+.activity-participants li {
+  margin-bottom: 4px;
+  font-size: 0.98em;
+  line-height: 1.4;
+}
+
 .form-group {
   margin-bottom: 15px;
 }
